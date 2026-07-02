@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Bj8RzsJagP0XIDqTrxBX">
+    <mxGraphModel dx="2575" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fontColor=#1a1a2e;" value="Boranet ERP VN — Tech Stack" vertex="1">
+          <mxGeometry height="40" width="600" x="284" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;verticalAlign=top;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="110" width="600" x="284" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#003087;" value="🌐  CLIENT / BROWSER" vertex="1">
+          <mxGeometry height="30" width="600" x="284" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1e88e5;strokeColor=#0d47a1;fontColor=#ffffff;fontSize=11;fontStyle=1;" value="Next.js 15 App Router" vertex="1">
+          <mxGeometry height="55" width="160" x="304" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#61dafb;strokeColor=#20232a;fontColor=#20232a;fontSize=11;fontStyle=1;" value="React 18" vertex="1">
+          <mxGeometry height="55" width="120" x="484" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#38bdf8;strokeColor=#0284c7;fontColor=#ffffff;fontSize=11;fontStyle=1;" value="Tailwind CSS" vertex="1">
+          <mxGeometry height="55" width="120" x="624" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7c3aed;strokeColor=#4c1d95;fontColor=#ffffff;fontSize=11;fontStyle=1;" value="shadcn/ui + Radix UI" vertex="1">
+          <mxGeometry height="55" width="100" x="764" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;verticalAlign=top;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="110" width="600" x="284" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#1a5c1a;" value="⚡  FRONTEND RUNTIME &amp; UTILITIES" vertex="1">
+          <mxGeometry height="30" width="600" x="284" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ade80;strokeColor=#16a34a;fontColor=#14532d;fontSize=11;fontStyle=1;" value="Zod" vertex="1">
+          <mxGeometry height="55" width="100" x="304" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bbf7d0;strokeColor=#16a34a;fontColor=#14532d;fontSize=11;" value="Inter Font" vertex="1">
+          <mxGeometry height="55" width="100" x="424" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#86efac;strokeColor=#16a34a;fontColor=#14532d;fontSize=11;" value="Server Actions / API Routes" vertex="1">
+          <mxGeometry height="55" width="150" x="544" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ade80;strokeColor=#16a34a;fontColor=#14532d;fontSize=11;" value="Session / Cookie Auth" vertex="1">
+          <mxGeometry height="55" width="150" x="714" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;verticalAlign=top;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="110" width="600" x="284" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="31" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#7d5500;" value="🖥️  NEXT.JS SERVER (Node.js)" vertex="1">
+          <mxGeometry height="30" width="600" x="284" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbbf24;strokeColor=#d97706;fontColor=#1a1a00;fontSize=11;fontStyle=1;" value="Next.js App Router&#xa;(SSR / RSC)" vertex="1">
+          <mxGeometry height="55" width="140" x="304" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde68a;strokeColor=#d97706;fontColor=#1a1a00;fontSize=11;" value="Static Asset Cache&#xa;(s-maxage=31536000)" vertex="1">
+          <mxGeometry height="55" width="160" x="464" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbbf24;strokeColor=#d97706;fontColor=#1a1a00;fontSize=11;" value="API Proxy&#xa;→ Backend REST" vertex="1">
+          <mxGeometry height="55" width="140" x="644" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;verticalAlign=top;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="80" width="600" x="284" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="41" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#6b1313;" value="🔀  REVERSE PROXY" vertex="1">
+          <mxGeometry height="30" width="600" x="284" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ea5252;strokeColor=#b85450;fontColor=#ffffff;fontSize=11;fontStyle=1;" value="Nginx 1.24.0 (Ubuntu)&#xa;gzip compression · TLS termination · Static caching" vertex="1">
+          <mxGeometry height="35" width="420" x="374" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;verticalAlign=top;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="110" width="600" x="284" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="51" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#4a1060;" value="☕  BACKEND API" vertex="1">
+          <mxGeometry height="30" width="600" x="284" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6bba75;strokeColor=#1a7530;fontColor=#ffffff;fontSize=11;fontStyle=1;" value="Spring Boot&#xa;(Java / Kotlin)" vertex="1">
+          <mxGeometry height="55" width="140" x="304" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9c59b6;strokeColor=#6c3483;fontColor=#ffffff;fontSize=11;fontStyle=1;" value="REST API&#xa;port :8080" vertex="1">
+          <mxGeometry height="55" width="120" x="464" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b39ddb;strokeColor=#6c3483;fontColor=#1a1a1a;fontSize=11;" value="Spring Security&#xa;(JWT / Session)" vertex="1">
+          <mxGeometry height="55" width="140" x="604" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ce93d8;strokeColor=#6c3483;fontColor=#1a1a1a;fontSize=11;" value="Swagger / OpenAPI&#xa;(secured)" vertex="1">
+          <mxGeometry height="55" width="100" x="764" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;verticalAlign=top;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="110" width="600" x="284" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="61" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#6d3b00;" value="🗄️  DATA LAYER" vertex="1">
+          <mxGeometry height="30" width="600" x="284" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff8c00;strokeColor=#d66a00;fontColor=#ffffff;fontSize=11;fontStyle=1;" value="Relational Database&#xa;(MySQL / PostgreSQL)" vertex="1">
+          <mxGeometry height="55" width="180" x="304" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9a825;strokeColor=#d66a00;fontColor=#1a1a00;fontSize=11;" value="External APIs&#xa;Google Reviews" vertex="1">
+          <mxGeometry height="55" width="160" x="504" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fee500;strokeColor=#d66a00;fontColor=#1a1a00;fontSize=11;fontStyle=1;" value="KakaoTalk API" vertex="1">
+          <mxGeometry height="55" width="180" x="684" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f0f0;strokeColor=#999999;fontSize=12;verticalAlign=top;arcSize=5;" value="" vertex="1">
+          <mxGeometry height="80" width="600" x="284" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="71" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#333333;" value="🏗️  INFRASTRUCTURE" vertex="1">
+          <mxGeometry height="30" width="600" x="284" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0740a;strokeColor=#bf5000;fontColor=#ffffff;fontSize=11;fontStyle=1;" value="Ubuntu Linux Server&#xa;IP: 203.172.89.47" vertex="1">
+          <mxGeometry height="35" width="200" x="374" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cccccc;strokeColor=#999999;fontColor=#1a1a1a;fontSize=11;" value="Domain: verp.boranet.net" vertex="1">
+          <mxGeometry height="35" width="200" x="594" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="80" edge="1" parent="1" source="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6c8ebf;fontColor=#003087;fontSize=10;" target="20" value="HTTP/S">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="81" edge="1" parent="1" source="20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#82b366;" target="30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82" edge="1" parent="1" source="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#d6b656;" target="40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="83" edge="1" parent="1" source="40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#b85450;fontSize=10;" target="50" value="Proxy">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="84" edge="1" parent="1" source="50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#9673a6;fontSize=10;" target="60" value="JPA / JDBC">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="85" edge="1" parent="1" source="60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#999999;" target="70" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
